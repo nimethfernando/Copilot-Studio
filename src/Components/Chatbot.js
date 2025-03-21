@@ -20,7 +20,7 @@ const Chatbot = () => {
           </div>
         </div>
 
-        {/* Chat Area - Expanded to fill available space */}
+        {/* Chat Area - Expanded to fill available space */}.
         <div className="relative flex-grow h-full">
           <iframe
             ref={iframeRef}
